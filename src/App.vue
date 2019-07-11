@@ -45,7 +45,7 @@
 
   body {
     margin: 0;
-    padding-top: 5%;
+    top : 5%;
     background-image: './assets/background.jpg';
   }
   html { 
