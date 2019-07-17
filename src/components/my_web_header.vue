@@ -5,7 +5,7 @@
                 <a href="https://github.com/youngsouk" target="_blank">
                     <li>
 
-                        <img id="img" src="./../assets/GitHub.png">
+                        <img id="img" src="https://github.com/youngsouk.png">
 
                     </li>
                 </a>
@@ -16,8 +16,8 @@
                 </li>
 
                 <li>
-                    <a href="https://st4nw.github.io/" target="_blank">
-                        <img id="img" src="./../assets/st4nw.jpg">
+                    <a href="https://github.com/st4nw" target="_blank">
+                        <img id="img" src="https://github.com/st4nw.png">
                     </a>
                 </li>
 
@@ -34,20 +34,26 @@
                 </li>
 
                 <li>
-                    <a href="https:/ohboksa.github.io/" target="_blank">
-                        <img id="img" src="./../assets/ohsj.png">
+                    <a href="https://github.com/ohboksa" target="_blank">
+                        <img id="img" src="https://github.com/ohboksa.png">
                     </a>
                 </li>
 
                 <li>
                     <a href="https://github.com/junhoyeo" target="_blank">
-                        <img id="img" src="./../assets/juno.jpg">
+                        <img id="img" src="https://github.com/junhoyeo.png">
                     </a>
                 </li>
 
                 <li>
                     <a href="https://github.com/SYWoo2003" target="_blank">
-                        <img id="img" src="./../assets/sywoo.png">
+                        <img id="img" src="https://github.com/SYWoo2003.png">
+                    </a>
+                </li>
+                
+                <li>
+                    <a href="https://github.com/harugatto" target="_blank">
+                        <img id="img" src="https://github.com/harugatto.png">
                     </a>
                 </li>
             </ul>
