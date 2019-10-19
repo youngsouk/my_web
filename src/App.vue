@@ -3,16 +3,17 @@
     <my_web_sidebar></my_web_sidebar>
     <my_web_header></my_web_header>
     <my_web_content></my_web_content>
+    <bityhday_card></bityhday_card>
     <intro></intro>
   </div>
 </template>
 
 <script>
-
   import intro from './components/intro.vue'
   import my_web_content from './components/my_web_content.vue'
   import my_web_header from './components/my_web_header.vue'
   import my_web_sidebar from './components/my_web_sidebar.vue'
+
   // eslint-disable-next-line
   import Vuetify from 'vuetify'
 
@@ -45,14 +46,7 @@
 
   body {
     margin: 0;
-    top : 5%;
+    top: 5%;
     background-image: './assets/background.jpg';
   }
-  html { 
-  background: url('./assets/background.jpg') no-repeat center center fixed; 
-  -webkit-background-size: cover;
-  -moz-background-size: cover;
-  -o-background-size: cover;
-  background-size: cover;
-}
 </style>
